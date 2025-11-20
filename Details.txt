@@ -8,3 +8,5 @@
 18 / 11 / 25 --- train - N.B
 
 19 / 11 / 25 --- Time and Work - N.B
+
+20 / 11 / 25 --- Coding and Decoding
