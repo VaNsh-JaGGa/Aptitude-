@@ -12,3 +12,5 @@
 20 / 11 / 25 --- Coding and Decoding
 
 21 / 11 / 25 --- direction from ranchit rastogi and time and work by sir in cover Notebook
+
+23 / 11 / 25 --- linear and parallel arrangement
