@@ -22,3 +22,5 @@
 26 / 11 / 25 --- Simple Interest
 
 28 / 11 / 25 --- simple interest completed
+
+29 / 11 / 25 --- Compound Interest
